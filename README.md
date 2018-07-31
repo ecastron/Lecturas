@@ -13,5 +13,5 @@
 ---
 
 <p align="center">
-<img width="60%" src="https://github.com/BIOQ380/Syllabus/blob/master/images/unab_cbib_horizontal.png?raw=true">
+<img width="50%" src="https://github.com/BIOQ380/Syllabus/blob/master/images/unab_cbib_horizontal.png?raw=true">
 </p>
