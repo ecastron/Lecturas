@@ -1,10 +1,8 @@
-# Bioinformática y Genómica (BIOQ380)
-
 # Lecturas
 
 ##### ¡Hola! A continuación puedes revisar y descargar las lecturas asignadas para cada semana que corresponda.
 
--
+---
 
 #### Sesión 2 (7 de agosto)
 
@@ -12,4 +10,4 @@
 
 * El siguiente artículo científico: Gabaldón, T., & Koonin, E. V. (2013). **Functional and evolutionary implications of gene orthology**. Nature Reviews Genetics, 14(5), 360-366. Descarga el PDF [AQUÍ](https://github.com/BIOQ380/Lecturas/raw/master/documents/Gabaldón_2013_NatRevGenet.pdf).
 
--
+---
