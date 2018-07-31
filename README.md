@@ -1,4 +1,4 @@
-# Lecturas
+# ![](https://github.com/BIOQ380/Syllabus/blob/master/images/readings.png?raw=true) Lecturas
 
 ##### ¡Hola! A continuación puedes revisar y descargar las lecturas asignadas para cada semana que corresponda.
 
