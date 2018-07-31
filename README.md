@@ -11,3 +11,5 @@
 * El siguiente artículo científico: Gabaldón, T., & Koonin, E. V. (2013). **Functional and evolutionary implications of gene orthology**. Nature Reviews Genetics, 14(5), 360-366. Descarga el PDF [AQUÍ](https://github.com/BIOQ380/Lecturas/raw/master/documents/Gabaldón_2013_NatRevGenet.pdf).
 
 ---
+
+<img src="https://github.com/BIOQ380/Syllabus/blob/master/images/unab_cbib_horizontal.png?raw=true" width="80%">
