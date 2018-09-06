@@ -10,6 +10,10 @@
 
 * El siguiente artículo científico: Gabaldón, T., & Koonin, E. V. (2013). **Functional and evolutionary implications of gene orthology**. Nature Reviews Genetics, 14(5), 360-366. Descarga el PDF [AQUÍ](https://github.com/BIOQ380/Lecturas/raw/master/documents/Gabaldón_2013_NatRevGenet.pdf).
 
+#### Sesión 2 (11 de septiembre)
+
+* El siguiente artículo científico: Cole Trapnell & Steven L Salzberg. (2009). **How to map billions of short reads onto genomes**. Nature Biotechnology, 27, 455-457. Descarga el PDF [AQUÍ](https://github.com/BIOQ380/Lecturas/raw/master/documents/nbt0509-455.pdf).
+
 ---
 
 <p align="center">
