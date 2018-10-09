@@ -10,9 +10,13 @@
 
 * El siguiente artículo científico: Gabaldón, T., & Koonin, E. V. (2013). **Functional and evolutionary implications of gene orthology**. Nature Reviews Genetics, 14(5), 360-366. Descarga el PDF [AQUÍ](https://github.com/BIOQ380/Lecturas/raw/master/documents/Gabaldón_2013_NatRevGenet.pdf).
 
-#### Sesión 2 (11 de septiembre)
+#### Sesión 7 (11 de septiembre)
 
-* El siguiente artículo científico: Cole Trapnell & Steven L Salzberg. (2009). **How to map billions of short reads onto genomes**. Nature Biotechnology, 27, 455-457. Descarga el PDF [AQUÍ](https://github.com/BIOQ380/Lecturas/raw/master/documents/nbt0509-455.pdf).
+* El siguiente artículo científico: Cole Trapnell & Steven L Salzberg. (2009). **How to map billions of short reads onto genomes**. Nature Biotechnology, 27, 455-457. Descarga el PDF [AQUÍ](https://github.com/BIOQ380/Lecturas/raw/master/documents/nbt0509-455.pdf).  
+
+#### Sesión 11 (16 de octubre)
+
+* El siguiente artículo científico: Simpson, J.T. and Pop, M., (2015). **The theory and practice of genome sequence assembly**. Annual review of genomics and human genetics, 16, pp.153-172. Descarga el PDF [AQUÍ]()
 
 ---
 
